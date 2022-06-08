@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8">
+    <title>HTML</title>
+  </head>
+  <body>
+    <h1>Exercícios</h1>
+    <ol>
+        <li>Lucas</li>
+        <li>Matheus</li>
+        <li>Gian</li>
+    </ol>
+    <img src="https://assine.staage.com/_nuxt/img/BG-Hero-Desk-NewLp-Desk.9cb8f3e.png" whidt="300px">
+  </body>
+</html>
